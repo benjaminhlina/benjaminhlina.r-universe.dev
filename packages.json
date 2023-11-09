@@ -1,0 +1,27 @@
+[
+    {
+        "package": "ecotox",
+        "url": "https://github.com/benjaminhlina/ecotox"
+    },
+       {
+        "package": "pathroutr",
+        "url": "https://github.com/jmlondon/pathroutr"
+    },
+    {
+        "package": "soapcheckr",
+        "url": "https://github.com/dill/soap_checker"
+    },
+      {
+        "package": "glatos",
+        "url": "https://github.com/ocean-tracking-network/glatos",
+        "branch": "dev"
+    },
+     {
+        "package": "miscYAPS",
+        "url": "https://github.com/robertlennox/miscYAPS"
+    },
+    {
+        "package": "yaps",
+        "url": "https://github.com/ocean-tracking-network/yaps"
+    }
+]
