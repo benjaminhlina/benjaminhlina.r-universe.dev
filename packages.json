@@ -8,14 +8,14 @@
     "url": "https://github.com/ocean-tracking-network/glatos",
     "branch": "dev"
   },
-    {
-        "package": "miscYAPS",
-        "url": "https://github.com/robertlennox/miscYAPS"
-    },
-    {
-        "package": "yaps",
-        "url": "https://github.com/ocean-tracking-network/yaps"
-    }
+  {
+    "package": "miscYAPS",
+    "url": "https://github.com/robertlennox/miscYAPS"
+  },
+  {
+    "package": "yaps",
+    "url": "https://github.com/ocean-tracking-network/yaps"
+  },
   {
     "package": "soapcheckr",
     "url": "https://github.com/benjaminhlina/soap_checker"
@@ -24,7 +24,7 @@
     "package": "pathroutr",
     "url": "https://github.com/jmlondon/pathroutr"
   },
-    {
+  {
     "package": "pathroutr",
     "url": "https://github.com/jmlondon/pathroutr"
   }
