@@ -24,8 +24,8 @@
     "package": "pathroutr",
     "url": "https://github.com/jmlondon/pathroutr"
   },
-  {
-    "package": "pathroutr",
-    "url": "https://github.com/jmlondon/pathroutr"
-  }
+   {
+    "package": "matos",
+    "url": "https://github.com/mhpob/matos/tree/master"
+  }, 
 ]
