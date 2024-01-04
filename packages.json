@@ -31,5 +31,13 @@
   {
     "package": "mort", 
      "url": "https://github.com/rosieluain/mort" 
+  }, 
+  {
+    "package": "moveHMM", 
+    "url": "https://github.com/TheoMichelot/moveHMM"
+  },
+  {
+    "package": "aniMotum",
+    "url": "https://github.com/ianjonsen/aniMotum"
   }
 ]
