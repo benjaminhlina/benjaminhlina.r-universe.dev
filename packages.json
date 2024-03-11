@@ -39,5 +39,9 @@
   {
     "package": "aniMotum",
     "url": "https://github.com/ianjonsen/aniMotum"
+  }, 
+  {
+    "package": "nichetools",
+    "url": "https://github.com/benjaminhlina/nichetools"
   }
 ]
