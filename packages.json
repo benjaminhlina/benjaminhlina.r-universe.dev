@@ -43,9 +43,5 @@
   {
     "package": "nichetools",
     "url": "https://github.com/benjaminhlina/nichetools"
-  }, 
-  {
-    "package": "sporeg",
-    "url": "https://github.com/mebowers5/sporeg/"
   }
 ]
