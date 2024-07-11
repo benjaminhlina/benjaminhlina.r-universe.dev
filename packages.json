@@ -43,5 +43,10 @@
   {
     "package": "nichetools",
     "url": "https://github.com/benjaminhlina/nichetools"
+  }, 
+  {
+    "pacakage": "tRophicPosition", 
+    "url": "https://github.com/benjaminhlina/tRophicPosition"
   }
+  
 ]
