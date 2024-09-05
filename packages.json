@@ -46,7 +46,8 @@
   }, 
   {
     "package": "tRophicPosition", 
-    "url": "https://github.com/benjaminhlina/tRophicPosition"
+    "url": "https://github.com/benjaminhlina/tRophicPosition",
+    "branch": "Hlina-update-docs-seeds"
   }
   
 ]
