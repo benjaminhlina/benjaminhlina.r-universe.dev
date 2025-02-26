@@ -48,6 +48,10 @@
     "package": "tRophicPosition", 
     "url": "https://github.com/benjaminhlina/tRophicPosition",
     "branch": "Hlina-update-docs-seeds"
+  }, 
+  {
+    "package": "trps", 
+    "url": "https://github.com/benjaminhlina/trps"
   }
   
 ]
